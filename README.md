@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArchitJain007
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... 10th class
+- 🌱 I’m currently learning ... Python
 
 <!---
 ArchitJain007/ArchitJain007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
